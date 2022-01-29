@@ -14,4 +14,4 @@
 ### ⚡ Fun fact: I don't red beans paste
 
 ## Skill
-![HTML](/html5.png)
+<img src="html5.png" width="50">
