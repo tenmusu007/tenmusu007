@@ -1,4 +1,4 @@
-# Hi Atsuya Tanak 🍔
+# Hi Atsuya Tanaka 🍔
 ## from Japan 🗾
 
 
