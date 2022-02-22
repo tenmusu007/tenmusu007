@@ -1,4 +1,4 @@
-# Hi! I'm Atsu 🍔
+# Hi! I'm Atsu
 ## from Japan 🗾
 
 
