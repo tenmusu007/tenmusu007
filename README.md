@@ -17,4 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenmusu007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skill
-<img src="html5.png" width="50"> <img src="css3.png" width="50">
+<img src="./readme-images/html" width="50"> <img src="css3.png" width="50">  <img src="css3.png" width="50"> <img src="css3.png" width="50"> <img src="css3.png" width="50">
