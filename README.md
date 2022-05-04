@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ...
 ### 💬 Ask me about whatevre you want
 ### 📫 How to reach me: coming soon
-### ⚡ Fun fact: I don't like red beans paste
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenmusu007&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
