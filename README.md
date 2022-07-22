@@ -4,10 +4,10 @@
 
 
 
-### 🔭 I’m currently going to <a href="https://ciccc.ca/">CICCC</a>
-### 🌱 I’m currently learning web development
+### 🔭 I’m currently studying web development at <a href="https://ciccc.ca/">CICCC</a>
+### 🌱 I’m currently learning Reat
 <!-- 👯 I’m looking to collaborate on my friends -->
-- 🤔 I’m looking for help with ...
+<!-- 🤔 I’m looking for help with ...-->
 <!-- ### 💬 Ask me about whatevre you want -->
 <!-- ### 📫 How to reach me: coming soon -->
 
