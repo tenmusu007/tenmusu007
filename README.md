@@ -9,7 +9,7 @@
 <!-- 👯 I’m looking to collaborate on my friends -->
 <!-- 🤔 I’m looking for help with ...-->
 <!-- ### 💬 Ask me about whatevre you want -->
-<!-- ### 📫 How to reach me: coming soon -->
+ 📫 How to reach me: tenmusu007@gmail.com
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenmusu007&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
