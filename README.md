@@ -1,11 +1,12 @@
-# Hi! I'm Atsu
+# Hi! I'm Atsuya
 ## from Japan 🗾
+##Front-End Developer
 
 
 
 
 ### 🔭 I’m currently studying web development at <a href="https://ciccc.ca/">CICCC</a>
-### 🌱 I’m currently learning React
+### 🌱 I’m learning React.
 <!-- 👯 I’m looking to collaborate on my friends -->
 <!-- 🤔 I’m looking for help with ...-->
 <!-- ### 💬 Ask me about whatevre you want -->
