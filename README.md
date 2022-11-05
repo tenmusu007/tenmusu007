@@ -6,9 +6,10 @@
 
 
 ### 🔭 I’m currently studying web development at <a href="https://ciccc.ca/">CICCC</a>
-### 🌱 I’m learning React and Typescript.
- 📫 How to reach me: tenmusu007@gmail.com
- 💬 This is my <a href="https://atsuya-tanaka.netlify.app/">Portfolio</a>
+### 🌱 I’m learning React and Typescript and Node.js.
+📫 How to reach me: tenmusu007@gmail.com.
+
+💬 This is my <a href="https://atsuya-tanaka.netlify.app/">Portfolio</a>
 <!-- 👯 I’m looking to collaborate on my friends -->
 <!-- 🤔 I’m looking for help with ...-->
 <!-- ### 💬 Ask me about whatevre you want -->
