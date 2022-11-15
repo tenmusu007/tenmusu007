@@ -3,12 +3,14 @@ I am Front-End Developer and a student at <a href="https://ciccc.ca/">CICCC</a>
 
 ### 🌱 What I’m learning 
 Basecally, I'm learining React and Typescript, but also Next.js, Node.js, MongoDB, Firebase, PostgreSQL.
-📫 How to reach me: tenmusu007@gmail.com, <a href="https://www.linkedin.com/in/atsuya-tanaka-566013229/">Linkedin</a>
 
+### 📫 How to reach me: tenmusu007@gmail.com, <a href="https://www.linkedin.com/in/atsuya-tanaka-566013229/">Linkedin</a>
 
-💬 This is my <a href="https://atsuya-tanaka.netlify.app/">Portfolio</a>
+### 💬 This is my <a href="https://atsuya-tanaka.netlify.app/">Portfolio</a>
+
 <!-- 👯 I’m looking to collaborate on my friends -->
-<!-- 🤔 I’m looking for help with ...-->
+
+### 🤔 I’m looking for position as front-end
 <!-- ### 💬 Ask me about whatevre you want -->
 
 
