@@ -10,7 +10,7 @@ I'm learining React, Next.js and Typescript, but I also stduying backend such as
 
 <!-- 👯 I’m looking to collaborate on my friends -->
 
-### 🤔 I’m looking for position as front-end
+### 🤔 I’m looking for position as Full stack
 <!-- ### 💬 Ask me about whatevre you want -->
 
 
