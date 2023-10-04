@@ -1,17 +1,15 @@
 # Hi! I'm Atsuya
-I am Front-End Developer and a student at <a href="https://ciccc.ca/">CICCC</a>
+I am SoftWare Developer at <a href="(https://www.jicoo.com/en/about)">Jicoo</a>
 
 ### 🌱 What I’m learning 
-I'm learining React, Next.js and Typescript, but I also stduying backend such as Node.js, MongoDB, Firebase, PostgreSQL.
+I'm learning React, Next.js, and Typescript.
 
 ### 📫 How to reach me: tenmusu007@gmail.com, <a href="https://www.linkedin.com/in/atsuya-tanaka-566013229/">Linkedin</a>
 
-### 💬 This is my <a href="https://atsuya-tanaka.netlify.app/">Portfolio</a>
+### 💬 This is my <a href="https://portfolio-omega-nine-68.vercel.app/">Portfolio</a>
 
-<!-- 👯 I’m looking to collaborate on my friends -->
+### 🤔 I’m looking for a position as Full stack Developer
 
-### 🤔 I’m looking for position as Full stack
-<!-- ### 💬 Ask me about whatevre you want -->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenmusu007&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
