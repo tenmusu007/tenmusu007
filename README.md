@@ -1,5 +1,5 @@
 # Hi! I'm Atsuya
-### I am Software Developer at <a href="https://www.jicoo.com/en/about">Jicoo</a>
+### I am Software Developer at<!-- <a href="https://www.jicoo.com/en/about">Jicoo</a> -->
 
 ### 🌱 What I’m learning 
 I'm learning React, Next.js, and Typescript.
