@@ -1,8 +1,5 @@
-# Hi! I'm Atsuya
-### I am Software Developer at<!-- <a href="https://www.jicoo.com/en/about">Jicoo</a> -->
-
-### 🌱 What I’m learning 
-I'm learning React, Next.js, and Typescript.
+# Hi! I'm Atsuya Tanaka
+### I am Frontend Enginner at <a href="https://www.jicoo.com/en/about">Gemcook</a>
 
 ### 📫 How to reach me: tenmusu007@gmail.com, <a href="https://www.linkedin.com/in/atsuya-tanaka-566013229/">Linkedin</a>
 
