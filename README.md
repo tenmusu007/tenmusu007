@@ -9,6 +9,11 @@ Please free to reach out to me!
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 
+## My articles are available on Zenn
+<a href="https://zenn.dev/tenmusu/">
+  Zenn
+</a>
+
 ## Skill
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
