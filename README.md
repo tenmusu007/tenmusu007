@@ -1,5 +1,5 @@
 # Hi! I'm Atsuya Tanaka
-I am SoftWare Enginner at <a href="https://taian-inc.com/">TAIAN</a>. I am a third-year frontend engineer specializing in React and Vue, with a strong interest in mobile development. I am consistently passionate about exploring new technologies and continuously strive to expand my knowledge and skills.
+I am Software Enginner at <a href="https://taian-inc.com/">TAIAN</a>. I am a third-year frontend engineer specializing in React and Vue, with a strong interest in mobile development. I am consistently passionate about exploring new technologies and continuously strive to expand my knowledge and skills.
 
 ## 📫 How to reach me
 
